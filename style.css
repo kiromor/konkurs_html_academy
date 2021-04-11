@@ -1,0 +1,101 @@
+body {
+  
+  
+  width: 1000px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+  line-height: auto;
+  color: #ffffff;
+  background-color: #000000;
+  background-repeat: no-repeat;
+  
+  margin: 0 451px;
+  
+  
+
+}
+
+.heading {
+  margin-left: 73px;
+  margin-top: 105px;
+  width: 853px;
+  height: 170px;
+  left: 73px;
+  top: 105px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  line-height: 85.33px;
+  text-align: left;
+  }
+
+
+figure {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 63.25%, #000000 100%),linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 71.69%), url("img/andreew.png");
+  background-position: top;
+  width: 1000px;
+  height: 1136px;
+}
+
+figcaption {
+  margin-left: 73px;
+  margin-top: 128px;
+  color: #BCBBBB;
+  font-size: 36px;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+
+.orange {
+color: #F66C41;
+
+}
+
+.intro {
+  margin-left: 73px;
+  margin-top: 90px;
+}
+
+.subheading {
+  margin: 0 0 56px;
+  width: 853px;
+  height: 170px;
+  font-family: Montserrat;
+  font-size: 70px;
+  line-height: 85px;
+  font-weight: bold;
+  
+}
+
+.list {
+ margin-top: 90px;
+ margin-bottom: 90px;
+
+}
+
+.txt {
+  margin-left: 73px;
+  margin-bottom: 104px;
+}
+
+.uppercase{
+  font-size: 70px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-bottom: 20px;
+}
+
+a {
+  margin-top: 90px;
+  text-decoration: underline; 
+}
+
+
