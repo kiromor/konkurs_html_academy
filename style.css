@@ -100,4 +100,7 @@ a {
 p {
   padding-bottom: 90px;
   margin-bottom:0%;
+  
+  column-width: 811;
+  
 }
